@@ -1,4 +1,6 @@
 # propiedades_argentina_dataset
+🔗 Link Dataset: https://www.kaggle.com/datasets/jluza92/argentina-properati-listings-dataset-20202021
+
 Data Science
 
 Este proyecto contiene un dataset de **valores de propiedades en Argentina y otros países**.  
