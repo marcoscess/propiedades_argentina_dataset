@@ -21,7 +21,7 @@ El objetivo principal es realizar una **limpieza de datos, estandarización de n
 - Normalización de nombres de provincias y regiones.
 - Exploración inicial con `pandas`
   - análisis de distribución de datos
-- Preparación de dataset para análisis posterior de precios y tendencias inmobiliarias.
+- Preparación de dataset para análisis posterior de precios y tendencias inmobiliarias en la Provincia de Cordoba.
 
 ---
 
@@ -35,7 +35,7 @@ El objetivo principal es realizar una **limpieza de datos, estandarización de n
 ---
 
 ## 🚀 Próximos pasos
-- Análisis exploratorio de precios por región.
+- Análisis exploratorio de precios.
 - Visualización de tendencias en el mercado inmobiliario.
 - Preparación del dataset para Machine Learning (predicción de valores de propiedades).
 
