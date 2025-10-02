@@ -44,7 +44,7 @@ El objetivo principal es realizar una **limpieza de datos, estandarización de n
 ## 👨‍💻 Autor
 **Marcos Céspedes**  
 📧 marcos.ces93@hotmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/marcosces)
+🔗 [LinkedIn](https://www.linkedin.com/in/marcosces/)
 
 ---
 
